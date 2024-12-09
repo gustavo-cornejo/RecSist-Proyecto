@@ -1,8 +1,6 @@
 # Proyecto Sistemas recomendadores 2024-2
 **Integrantes:** Gustavo Cornejo, Juanita Fernández, Francisco Jorquera.
 
-### Descripción del proyecto: <span style="color:red">(revisar)</span>
-
 # Sistema Recomendador para Juegos de Cartas Coleccionables (Hearthstone)
 
 Este proyecto presenta un sistema recomendador diseñado para juegos de cartas coleccionables, con un enfoque particular en **Hearthstone**. El objetivo principal es optimizar los mazos de los jugadores, mejorando su **win-rate** a través de algoritmos de recomendación.
