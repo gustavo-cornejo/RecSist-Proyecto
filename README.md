@@ -7,7 +7,7 @@ Este proyecto presenta un sistema recomendador diseñado para juegos de cartas c
 
 ## Más Información
 
-Para obtener una descripción detallada del sistema y los resultados obtenidos, consulta el documento **Greedy Recommendation Model for Collectible Card Games**.
+Para obtener una descripción detallada del sistema y los resultados obtenidos, consulta el documento **Greedy Recommendation Model for Collectible Card Games** [aquí](./Greedy_Recommendation_Model_for_Collectible_Card_Games.pdf).
 
 ## Descargar el Código
 
