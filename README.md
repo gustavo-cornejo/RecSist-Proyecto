@@ -3,7 +3,22 @@
 
 ### Descripción del proyecto: <span style="color:red">(revisar)</span>
 
-Sistema recomendador para hearthstone para la recomendación de ... usando los métodos ...
+# Sistema Recomendador para Juegos de Cartas Coleccionables (Hearthstone)
+
+Este proyecto presenta un sistema recomendador diseñado para juegos de cartas coleccionables, con un enfoque particular en **Hearthstone**. El objetivo principal es optimizar los mazos de los jugadores, mejorando su **win-rate** a través de algoritmos de recomendación.
+
+## Más Información
+
+Para obtener una descripción detallada del sistema y los resultados obtenidos, consulta el documento [**Nombre del Paper**].
+
+## Descargar el Código
+
+Puedes descargar el código fuente y los archivos necesarios para replicar el sistema desde el archivo .zip disponible [aquí](./Proyecto_Final.zip).
+
+## Modelos y Archivos Importantes
+
+- El modelo utilizado para predecir el **win_rate** fue entrenado usando el archivo [**win_rate_prediction**](./Entrega%203/win_rate_prediction.ipynb).
+- El código necesario para replicar los resultados y entrenar el modelo se encuentra en [**DeckRec**](./Entrega%203/DeckRec.ipynb).
 
 ### Documentación:
 **[1] Looking for archetypes: Applying game data mining to hearthstone decks**: Análisis de los datos en la bases de datos de **[2]** 
